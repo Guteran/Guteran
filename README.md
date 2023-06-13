@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dan Guterman!
+### Hi there 👋 My name is Dan!
 
 - 🇨🇦 Based in Canada. 
 - 🔭 I’m currently working at [Wealthsimple](https://wwww.wealthsimple.com) and [BrainStation](https://www.brainstation.io)
